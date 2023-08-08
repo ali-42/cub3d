@@ -1,6 +1,6 @@
 # cub3d (42 project)
 
-This project is a simple 3d environment using raycasting
+This project generates a 3D perspective from a 2D map using raycasting
 
 ## Requirements
 
