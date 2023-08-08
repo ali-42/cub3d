@@ -4,7 +4,13 @@ This project is a simple 3d environment using raycasting
 
 ## Requirements
 
-You must have both libxext and libbsd installed before you compile
-You have to clone the minilibx https://github.com/42Paris/minilibx-linux
+Before you compile :
+
+- Make sure that both libxext and libbsd installed
+- Clone the minilibx https://github.com/42Paris/minilibx-linux into the repository
+
+## Usage
+
+`./cub3d <map.cub> to launch the game
 
 ![screenshot](img/screenshot.png)
