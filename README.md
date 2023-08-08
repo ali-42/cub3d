@@ -11,6 +11,6 @@ Before you compile :
 
 ## Usage
 
-`./cub3d <map.cub> to launch the game
+`./cub3d <map.cub>` to launch the game
 
 ![screenshot](img/screenshot.png)
